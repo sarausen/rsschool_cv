@@ -1,1 +1,1 @@
-# rsschool_cv
+docs: add link to project
